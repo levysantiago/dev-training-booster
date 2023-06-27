@@ -1,0 +1,1 @@
+1. Faça um programa que calcule a média de 3 números (use variáveis)
