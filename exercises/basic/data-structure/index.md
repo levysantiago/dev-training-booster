@@ -1,0 +1,4 @@
+1. Uma arquiteta precisa criar um modelo 3D de sofá para utilizar na planta 3D que ela está desenhando graficamente. Para fazer esse modelo ela está utilizando o Autocad. Internamente, o Autocad internamente utiliza uma estrutura de código para representar esse modelo do sofá (material, cor, quantidade de braços...). Utilize uma estrutura de código para recriar a representação do sofá no código semelhante ao que seria no Autocad.
+
+2. Uma locadora precisa de um sistema para gerenciar todas as locações e carros que estão disponíveis ou locados. Construa uma estrutura para representar a entidade `Carro` dessa locadora. A partir desta estrutura, construa três exemplos diferentes de carros. Dentre os atributos do Carro, é indispensável ter a marca do carro, quilômetros rodados, ano do carro, valor de locação, se o carro está locado ou não, placa do carro. Imprima os atributos de cada carro em cada linha.
+
